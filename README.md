@@ -1,2 +1,2 @@
-# Comunicacao-de-Dados
-5º Semestre do curso de Engenharia da Computação - UFSM
+# Data Comunication
+Data Comunication material from 5th semester of Computer Engineering - UFSM
